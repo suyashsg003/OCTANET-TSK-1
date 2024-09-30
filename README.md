@@ -45,7 +45,7 @@ The <strong>ATM Simulator</strong> is a console-based Java application that simu
 
 <ol>
   <li>Clone this repository:
-    <pre><code>git clone https://github.com/yourusername/atmsimulator.git</code></pre>
+    <pre><code>git clone https://github.com/suyashsg003/ATMsimulator.git</code></pre>
   </li>
   <li>Navigate to the project directory:
     <pre><code>cd atmsimulator</code></pre>
@@ -94,14 +94,6 @@ The <strong>ATM Simulator</strong> is a console-based Java application that simu
 <p>If you would like to contribute to the ATM Simulator project, feel free to submit pull requests or open issues for feature requests or bug reports.</p>
 
 <!-- ================================================ -->
-<!-- License Section                                  -->
-<!-- ================================================ -->
-
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-<!-- ================================================ -->
 <!-- Contact Section                                  -->
 <!-- ================================================ -->
 
@@ -109,6 +101,6 @@ The <strong>ATM Simulator</strong> is a console-based Java application that simu
 
 <p>Feel free to reach out for any questions or feedback! 😊</p>
 <ul>
-  <li><strong>Email:</strong> your.email@example.com</li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yourprofile">Your LinkedIn Profile</a></li>
+  <li><strong>Email:</strong> suyashs.g2004@gmail.com </li>
+  <li><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/suyash-goyal-64b49b273">Your LinkedIn Profile</a></li>
 </ul>
