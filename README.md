@@ -102,5 +102,5 @@ The <strong>ATM Simulator</strong> is a console-based Java application that simu
 <p>Feel free to reach out for any questions or feedback! 😊</p>
 <ul>
   <li><strong>Email:</strong> suyashs.g2004@gmail.com </li>
-  <li><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/suyash-goyal-64b49b273">Your LinkedIn Profile</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/suyash-goyal-64b49b273">Your LinkedIn Profile</a></li>
 </ul>
